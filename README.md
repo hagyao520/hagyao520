@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://sakura.hk.cn/" target="_blank" style="display: inline-block;">
-      <img alt="官方网站" src="https://img.shields.io/badge/官网-Sakura-1E80FF">
+      <img alt="官方网站" src="https://img.shields.io/badge/官网-sakura.hk.cn-F54860">
     </a>
     <a href="https://github.com/SakuraTechy/Sakura.Automation.Platform.Docs" target="_blank" style="display: inline-block;">
       <img src="https://img.shields.io/badge/Release-v1.0.0-%23ff3f59.svg" alt="Release" />
