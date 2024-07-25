@@ -49,11 +49,13 @@
 </p>
 
 ---
+<!-- - 👋 Hi, I'm Sakura SōLū -->
 - 👋 Hi, I'm King
 - 🔭 I'm currently engaged in full stack development work
-- 🐧 QQ: [1306086303](https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=1306086303)
-- 📫 Email: [1306086303@qq.com](mailto:charles7c@126.com)
-- 📖 Motto: “ 在0与1之间，寻找无限可能 。”
+- 🐧 QQ：[1306086303](https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=1306086303)
+- 📫 Email：[1306086303@qq.com](mailto:1306086303@qq.com)
+- 📖 Motto：『 在0与1之间，寻找无限可能 』
+
 ---
 
 ### 后端技术栈
