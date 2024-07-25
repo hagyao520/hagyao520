@@ -56,10 +56,6 @@
 - 📖 Motto: “ 在0与1之间，寻找无限可能 。”
 ---
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/hagyao520/hagyao520/img/snake.svg">
-  <img src="https://github.com/hagyao520/hagyao520/img/snake.svg" alt="" style="max-width: 100%;">
-</a>
-
 ### 后端技术栈
 
 <p>
@@ -218,6 +214,10 @@
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=charles7c&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
 </div>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/hagyao520/hagyao520/blob/main/img/snake.svg">
+  <img src="https://github.com/hagyao520/hagyao520/blob/main/img/snake.svg" alt="" style="max-width: 100%;">
+</a>
 
 ### Profile Views
 counting of visitors to this page in this section started from 2024年1月1日
