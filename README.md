@@ -6,7 +6,7 @@
       <img alt="官方网站" src="https://img.shields.io/badge/官网-sakura.hk.cn-F54860">
     </a>
     <a href="https://github.com/SakuraTechy/Sakura.Automation.Platform.Docs" target="_blank" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Release-v1.0.0-%23ff3f59.svg" alt="Release" />
+      <img alt="发布版本" src="https://img.shields.io/badge/Release-v1.0.0-%23ff3f59.svg" alt="Release" />
     </a>
     <a href="https://github.com/hagyao520/hagyao520" target="_blank" style="display: inline-block;">
       <img alt="更新状态" src="https://img.shields.io/badge/Status-Updating-brightgreen.svg">
